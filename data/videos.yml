@@ -29,6 +29,97 @@ Functional Swift Conference 2014:
     title: The Functional Way
     tags: [functional programming]
     youtube: tohEJSq9gds
+UIKonf 2015:
+  - language: English
+    speakers: [Mike Lee]
+    title: World Modelling
+    tags: [inspirational]
+    youtube: SDZkKvC8r40
+  - language: English
+    speakers: [Natasha Murashev]
+    title: Swift Thinking
+    tags: [swift]
+    youtube: 4uPCVMfWY34
+  - language: English
+    speakers: [Eli Perkins]
+    title: Staters Gonna State
+    tags: [value types]
+    youtube: TfW0y7LLTpI
+  - language: English
+    speakers: [Junior Bontognali]
+    title: Monads are not Monsters
+    tags: [functional programming, monad]
+    youtube: vg7cOF30Svo
+  - language: English
+    speakers: [Claus Höfele]
+    title: Practical WatchKit Development
+    tags: [watchkit]
+    youtube: T9h72hH9TWA
+  - language: English
+    speakers: [Marcel Weiher]
+    title: Software Architecture in iOS and OS X Applications
+    tags: [architechture]
+    youtube: B5hGmXFHQS4
+  - language: English
+    speakers: [Tom Adriaenssen]
+    title: Async View Controllers
+    tags: [user interface, view controllers]
+    youtube: xy-xqj3m_Tk
+  - language: English
+    speakers: [JP Simard]
+    title: Fixing the Swift Tooling Problem
+    tags: [swift, tools]
+    youtube: flSMEw_Hxik
+  - language: English
+    speakers: [Ash Furrow]
+    title: Teaching and Learning
+    tags: [inspirational]
+    youtube: SjjvnrqDjpM
+  - language: English
+    speakers: [Halle Winkler]
+    title: "Duct-taping the gates of chaos shut: the weird, little, useful, sustainable indie"
+    tags: [inspirational]
+    youtube: SjjvnrqDjpM
+  - language: English
+    speakers: [Brian Gesiak]
+    title: "iOS API Design: Swift Patterns"
+    tags: [bananakit, swift, architecture]
+    youtube: yu6KND7dJBA
+  - language: English
+    speakers: [Joe Burgess]
+    title: Learning Swift Through Lessons in Haskell
+    tags: [swift, functional programming, haskell]
+    youtube: 46nJlZ3RT_I
+  - language: English
+    speakers: [Chris Eidhof]
+    title: Functional View Controllers
+    tags: [view controllers, monad, flatMap]
+    youtube: uQFI9rDrl8s
+  - language: English
+    speakers: [Hector Zarate]
+    title: "iOS at Spotify: From Plan to Done"
+    tags: [process]
+    youtube: DWw1ankfqO0
+  - language: English
+    speakers: [Jens Ravens]
+    title: Functional Reactive Programming without Black Magic
+    tags: [frp, funtional reactive programming]
+    youtube: AcDaWe3S75c
+  - language: English
+    speakers: [Saniul Ahmed]
+    title: Prototyping Touch Interfaces (and my open-source story)
+    tags: [prototyping, open source]
+    youtube: O9HQqNjdxPM
+  - language: English
+    speakers: [Maxim Cramer]
+    title: A Journey into Design
+    tags: [design, collaboration]
+    youtube: gSnUt9ZfslM
+  - language: English
+    speakers: [Graham Lee]
+    title: Object-Oriented Programming in Objective-C
+    tags: [inspirational]
+    youtube: _BbGxpiYFDg
 AltConf 2015:
   - language: English
     speakers: [Peter Steinberger]
