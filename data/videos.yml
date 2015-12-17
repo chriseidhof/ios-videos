@@ -620,3 +620,8 @@ Functional Swift Conference 2015:
     speakers: [Colin Barrett]
     title: Structure and Interpretation of Swift Programs
     youtube: V-YvI83QdMs
+Test:
+  - language: English
+    speakers: [Test Speaker]
+    title: Structure and Interpretation of Swift Programs
+    youtube: V-YvI83QdMs
