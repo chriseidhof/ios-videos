@@ -1012,6 +1012,12 @@ AltConf 2015:
     title: The Worst Code
     tags: [social coding]
     youtube: gqQzJKU440Y
+WWDC 2015:
+  - language: English
+    speakers: [Josh Shaffer]
+    title: Introducing WatchKit for watchOS 2
+    tags: [watchos]
+    wwdc: "wwdc2015-105"
 NSSpain 2015:
   - language: English
     speakers: [Piet Brauer]
