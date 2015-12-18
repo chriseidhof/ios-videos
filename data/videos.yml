@@ -1014,10 +1014,530 @@ AltConf 2015:
     youtube: gqQzJKU440Y
 WWDC 2015:
   - language: English
+    speakers: [Andreas Wendker]
+    title: Platforms State of the Union
+    tags: [ios, watchos]
+    wwdc: "wwdc2015-102"
+  - language: English
     speakers: [Josh Shaffer]
     title: Introducing WatchKit for watchOS 2
     tags: [watchos]
     wwdc: "wwdc2015-105"
+  - language: English
+    speakers: [Chris Lattner]
+    title: "What's New in Swift"
+    tags: [swift]
+    wwdc: "wwdc2015-106"
+  - language: English
+    speakers: [Ken Orr]
+    title: "What's New in Xcode"
+    tags: [xcode]
+    wwdc: "wwdc2015-104"
+  - language: English
+    speakers: [Mike Stern]
+    title: Designing for Apple Watch
+    tags: [watchos]
+    wwdc: "wwdc2015-802"
+  - language: English
+    speakers: [Vipul Prakash]
+    title: Introducing Search APIs
+    tags: [ios]
+    wwdc: "wwdc2015-709"
+  - language: English
+    speakers: [Jeffrey Traer Bernstein]
+    title: Designing for Future Hardware
+    tags: [prototype, iOS]
+    wwdc: "wwdc2015-801"
+  - language: English
+    speakers: [Brittany Paine]
+    title: Optimizing Your App for Multitasking on iPad in iOS 9
+    tags: [ios, frameworks]
+    wwdc: "wwdc2015-212"
+  - language: English
+    speakers: [Debbie Sterling]
+    title: Think Audacious
+    tags: [ios]
+    wwdc: "wwdc2015-112"
+  - language: English
+    speakers: [Antonio Cavedoni]
+    title: Introducing the New System Fonts
+    tags: [fonts]
+    wwdc: "wwdc2015-804"
+  - language: English
+    speakers: [Dave Abrahams]
+    title: "Protocol-Oriented Programming in Swift"
+    tags: [swift]
+    wwdc: "wwdc2015-408"
+  - language: English
+    speakers: [Todd Fernandez]
+    title: "What's New in Managing Apple Devices"
+    tags: [ios]
+    wwdc: "wwdc2015-301"
+  - language: English
+    speakers: [Dave Van Tassell]
+    title: "What's New in iTunes Connect"
+    tags: [itunesconnect]
+    wwdc: "wwdc2015-302"
+  - language: English
+    speakers: [Trystan Kosmynka]
+    title: Getting the Most out of App Analytics
+    tags: [Analytics]
+    wwdc: "wwdc2015-303"
+  - language: English
+    speakers: [Paul Turner]
+    title: "iTunes Connect: Development to Distribution"
+    tags: [itunesconnect, analytics, distribution]
+    wwdc: "wwdc2015-304"
+  - language: English
+    speakers: [Sal Soghoian]
+    title: "Supporting the Enterprise with OS X Automation"
+    tags: [automation, enterprise]
+    wwdc: "wwdc2015-306"
+  - language: English
+    speakers: [Ian Fisch]
+    title: iOS Accessibility
+    tags: [accessibility, frameworks]
+    wwdc: "wwdc2015-201"
+  - language: English
+    speakers: [Ali Ozer]
+    title: "What's New in Cocoa"
+    tags: [cocoa, frameworks]
+    wwdc: "wwdc2015-202"
+  - language: English
+    speakers: [Shannon Tan]
+    title: "What's New in HealthKit"
+    tags: [cocoa, frameworks]
+    wwdc: "wwdc2015-203"
+  - language: English
+    speakers: [Qasid Sadiq]
+    title: "Apple Watch Accessibility"
+    tags: [accessibility, frameworks]
+    wwdc: "wwdc2015-204"
+  - language: English
+    speakers: [Peter Hajas]
+    title: "Getting Started with Multitasking on iPad in iOS 9"
+    tags: [multitasking, frameworks]
+    wwdc: "wwdc2015-205"
+  - language: English
+    speakers: [Sumit Lonkar]
+    title: "What's New in MapKit"
+    tags: [mapkit, frameworks]
+    wwdc: "wwdc2015-206"
+  - language: English
+    speakers: [Andrew Platzer]
+    title: "WatchKit In-Depth, Part 1"
+    tags: [mapkit, frameworks]
+    wwdc: "wwdc2015-207"
+  - language: English
+    speakers: [Nathan deVries, Chloe Chang]
+    title: "WatchKit In-Depth, Part 2"
+    tags: [mapkit, frameworks]
+    wwdc: "wwdc2015-208"
+  - language: English
+    speakers: [Eliza Block, Paul Salzman]
+    title: Creating Complications with ClockKit
+    tags: [frameworks]
+    wwdc: "wwdc2015-209"
+  - language: English
+    speakers: [Anush Nadathur]
+    title: "What's New in HomeKit"
+    tags: [frameworks]
+    wwdc: "wwdc2015-210"
+  - language: English
+    speakers: [Stefan Hafeneger]
+    title: "Multitasking Essentials for Media-Based Apps on iPad in iOS 9"
+    tags: [frameworks]
+    wwdc: "wwdc2015-211"
+  - language: English
+    speakers: [John Earl]
+    title: "Building Apps with ResearchKit"
+    tags: [frameworks, researchkit]
+    wwdc: "wwdc2015-213"
+  - language: English
+    speakers: [Steve Lewallen]
+    title: "Introducing On Demand Resources"
+    tags: [frameworks]
+    wwdc: "wwdc2015-214"
+  - language: English
+    speakers: [Kyle Sluder]
+    title: "What's New in Storyboards"
+    tags: [frameworks, storyboards]
+    wwdc: "wwdc2015-215"
+  - language: English
+    speakers: [Miguel Sanchez]
+    title: "Layout and Animation Techniques for WatchKit"
+    tags: [frameworks, watchos]
+    wwdc: "wwdc2015-216"
+  - language: English
+    speakers: [Raleigh Ledet]
+    title: "Adopting New Trackpad Features"
+    tags: [frameworks]
+    wwdc: "wwdc2015-217"
+  - language: English
+    speakers: [Jason Yao]
+    title: "Mysteries of Auto Layout, Part 1"
+    tags: [frameworks, autolayout]
+    wwdc: "wwdc2015-218"
+  - language: English
+    speakers: [Jesse Donaldson]
+    title: "Mysteries of Auto Layout, Part 2"
+    tags: [frameworks, autolayout]
+    wwdc: "wwdc2015-219"
+  - language: English
+    speakers: [Rishi Verma]
+    title: "What's New in Core Data"
+    tags: [frameworks, coredata]
+    wwdc: "wwdc2015-220"
+  - language: English
+    speakers: [Corbin Dunn]
+    title: "Improving the Full Screen Window Experience"
+    tags: [frameworks]
+    wwdc: "wwdc2015-221"
+  - language: English
+    speakers: [Sara Radi]
+    title: "New UIKit Support for International User Interfaces"
+    tags: [frameworks, uikit]
+    wwdc: "wwdc2015-222"
+  - language: English
+    speakers: [Bruce Stadnyk]
+    title: "Introducing the Contacts Framework for iOS and OS X"
+    tags: [frameworks, contacts]
+    wwdc: "wwdc2015-223"
+  - language: English
+    speakers: [Sophia Teutschler]
+    title: "App Extension Best Practices"
+    tags: [frameworks, extension]
+    wwdc: "wwdc2015-224"
+  - language: English
+    speakers: [Troy Stephens]
+    title: "What's New in NSCollectionView"
+    tags: [frameworks]
+    wwdc: "wwdc2015-225"
+  - language: English
+    speakers: [Philippe Hausler]
+    title: "Advanced NSOperations"
+    tags: [frameworks, nsoperations]
+    wwdc: "wwdc2015-226"
+  - language: English
+    speakers: [Nat Hillard]
+    title: "What's New in Internationalization"
+    tags: [frameworks]
+    wwdc: "wwdc2015-227"
+  - language: English
+    speakers: [Jake Behrens]
+    title: "WatchKit Tips and Tricks"
+    tags: [frameworks, watchkit]
+    wwdc: "wwdc2015-228"
+  - language: English
+    speakers: [Michael Turner]
+    title: "What's New in UIKit Dynamics and Visual Effects"
+    tags: [frameworks, uikit]
+    wwdc: "wwdc2015-229"
+  - language: English
+    speakers: [Ben Englert]
+    title: "Performance on iOS and watchOS"
+    tags: [frameworks, watchos]
+    wwdc: "wwdc2015-230"
+  - language: English
+    speakers: [Luke Hiesterman]
+    title: "Cocoa Touch Best Practices"
+    tags: [frameworks]
+    wwdc: "wwdc2015-231"
+  - language: English
+    speakers: [Vince Spader]
+    title: "Best Practices for Progress Reporting"
+    tags: [frameworks]
+    wwdc: "wwdc2015-232"
+  - language: English
+    speakers: [Peter Tsoi]
+    title: "Advanced Touch Input on iOS"
+    tags: [frameworks]
+    wwdc: "wwdc2015-233"
+  - language: English
+    speakers: [Mike Hess]
+    title: "Building Document Based Apps"
+    tags: [frameworks]
+    wwdc: "wwdc2015-234"
+  - language: English
+    speakers: [Ricky Mondello]
+    title: "Introducing Safari View Controller"
+    tags: [frameworks, safari]
+    wwdc: "wwdc2015-504"
+  - language: English
+    speakers: [Conrad Shultz]
+    title: "Seamless Linking to Your App"
+    tags: [frameworks]
+    wwdc: "wwdc2015-509"
+  - language: English
+    speakers: [Jordan Rose]
+    title: "Swift and Objective-C Interoperability"
+    tags: [developertools, swift]
+    wwdc: "wwdc2015-401"
+  - language: English
+    speakers: [Kate Stone]
+    title: "What's New in LLDB"
+    tags: [developertools, lldb]
+    wwdc: "wwdc2015-402"
+  - language: English
+    speakers: [Woody Lidstone]
+    title: "Improving Your Existing Apps with Swift"
+    tags: [developertools, swift]
+    wwdc: "wwdc2015-403"
+  - language: English
+    speakers: [Anders Bertelrud]
+    title: "App Thinning in Xcode"
+    tags: [developertools, xcode]
+    wwdc: "wwdc2015-404"
+  - language: English
+    speakers: [Sam]
+    title: "Authoring Rich Playgrounds"
+    tags: [developertools, playgrounds]
+    wwdc: "wwdc2015-405"
+  - language: English
+    speakers: [Wil Turner]
+    title: "UI Testing in Xcode"
+    tags: [developertools, xcode, uitesting]
+    wwdc: "wwdc2015-406"
+  - language: English
+    speakers: [Kevin Cathey]
+    title: "Implementing UI Designs in Interface Builder"
+    tags: [developertools, interfacebuilder]
+    wwdc: "wwdc2015-407"
+  - language: English
+    speakers: [Nadav, Michael, Joe]
+    title: "Optimizing Swift Performance"
+    tags: [developertools, swift]
+    wwdc: "wwdc2015-409"
+  - language: English
+    speakers: [Matt Moriarity]
+    title: "Continuous Integration and Code Coverage in Xcode"
+    tags: [developertools]
+    wwdc: "wwdc2015-410"
+  - language: English
+    speakers: [Ted Kremenek]
+    title: "Swift in Practice"
+    tags: [developertools, swift]
+    wwdc: "wwdc2015-411"
+  - language: English
+    speakers: [Kris Markel]
+    title: "Profiling in Depth"
+    tags: [developertools]
+    wwdc: "wwdc2015-412"
+  - language: English
+    speakers: [Mike Swingler]
+    title: "Advanced Debugging and the Address Sanitizer"
+    tags: [developertools, debugging]
+    wwdc: "wwdc2015-413"
+  - language: English
+    speakers: [Doug Gregor, Bill Dudney]
+    title: "Building Better Apps with Value Types in Swift"
+    tags: [developertools]
+    wwdc: "wwdc2015-414"
+  - language: English
+    speakers: [Brent Fulgham]
+    title: "What's New in Web Development in WebKit and Safari"
+    tags: [media, safari, webkit]
+    wwdc: "wwdc2015-501"
+  - language: English
+    speakers: [Roger Pantos, Gianpaolo Fasoli]
+    title: "Content Protection for HTTP Live Streaming"
+    tags: [media]
+    wwdc: "wwdc2015-502"
+  - language: English
+    speakers: [Carol Teng, Shashank Phadke]
+    title: "Monetize and Promote Your App with iAd"
+    tags: [media, iad]
+    wwdc: "wwdc2015-503"
+  - language: English
+    speakers: [Jono Wells]
+    title: "Using Safari to Deliver and Debug a Responsive Web Design"
+    tags: [media, safari]
+    wwdc: "wwdc2015-505"
+  - language: English
+    speakers: [Tim Monroe]
+    title: "Editing Movies in AV Foundation"
+    tags: [media, avfoundation]
+    wwdc: "wwdc2015-506"
+  - language: English
+    speakers: [Akshatha Nagesh, Torrey]
+    title: "What's New in Core Audio"
+    tags: [media, audio]
+    wwdc: "wwdc2015-507"
+  - language: English
+    speakers: [Doug Wyatt]
+    title: "Audio Unit Extensions"
+    tags: [media, audio]
+    wwdc: "wwdc2015-508"
+  - language: English
+    speakers: [David Hayward]
+    title: "What's New in Core Image"
+    tags: [media, coreimage]
+    wwdc: "wwdc2015-510"
+  - language: English
+    speakers: [Brian Weinstein]
+    title: "Safari Extensibility: Content Blocking and Shared Links"
+    tags: [media]
+    wwdc: "wwdc2015-511"
+  - language: English
+    speakers: [Nick Porcino]
+    title: "Managing 3D Assets with Model I/O"
+    tags: [graphics, games]
+    wwdc: "wwdc2015-602"
+  - language: English
+    speakers: [Rav Dhiraj]
+    title: "What's New in Metal, Part 1"
+    tags: [graphics, games, metal]
+    wwdc: "wwdc2015-603"
+  - language: English
+    speakers: [Tim Oriol]
+    title: "What's New in SpriteKit"
+    tags: [graphics, games, sprikit]
+    wwdc: "wwdc2015-604"
+  - language: English
+    speakers: [Megan Gardner]
+    title: "Going Social with ReplayKit and Game Center"
+    tags: [graphics, games, gamecenter]
+    wwdc: "wwdc2015-605"
+  - language: English
+    speakers: [Thomas Goossens]
+    title: "Enhancements to SceneKit"
+    tags: [graphics, games, scenekit]
+    wwdc: "wwdc2015-606"
+  - language: English
+    speakers: [Dan Omachi, Anna Tikhonova]
+    title: "What's New in Metal, Part 2"
+    tags: [graphics, games]
+    wwdc: "wwdc2015-607"
+  - language: English
+    speakers: [Bruno Sommer]
+    title: "Introducing GameplayKit"
+    tags: [graphics, games]
+    wwdc: "wwdc2015-608"
+  - language: English
+    speakers: [Dave Addey]
+    title: "Deeper into GameplayKit with DemoBots"
+    tags: [graphics, games]
+    wwdc: "wwdc2015-609"
+  - language: English
+    speakers: [Phil Bennett]
+    title: "Metal Performance Optimization Techniques"
+    tags: [graphics, games]
+    wwdc: "wwdc2015-610"
+  - language: English
+    speakers: [Danvin Ruangchan]
+    title: "Wallet - The home for Apple Pay and more"
+    tags: [systemframeworks, applepay]
+    wwdc: "wwdc2015-701"
+  - language: English
+    speakers: [Nick Shearer]
+    title: "Apple Pay Within Apps"
+    tags: [systemframeworks, applepay]
+    wwdc: "wwdc2015-702"
+  - language: English
+    speakers: [Katie Skinner]
+    title: "Privacy and Your App"
+    tags: [systemframeworks]
+    wwdc: "wwdc2015-703"
+  - language: English
+    speakers: [Olivier Bonnet]
+    title: "What's New in CloudKit"
+    tags: [systemframeworks]
+    wwdc: "wwdc2015-704"
+  - language: English
+    speakers: [Anil Kandangath]
+    title: "What's New in Core Motion"
+    tags: [systemframeworks, coremotion]
+    wwdc: "wwdc2015-705"
+  - language: English
+    speakers: [Ivan Krstic]
+    title: "Security and Your Apps"
+    tags: [systemframeworks, security]
+    wwdc: "wwdc2015-706"
+  - language: English
+    speakers: [Jon Andrews, Soren Spies]
+    title: "Achieving All-day Battery Life"
+    tags: [systemframeworks]
+    wwdc: "wwdc2015-707"
+  - language: English
+    speakers: [Abhinav Pathak, "Pai-Han Huang"]
+    title: "Debugging Energy Issues"
+    tags: [systemframeworks]
+    wwdc: "wwdc2015-708"
+  - language: English
+    speakers: [Vipul Prakash, Dave Salim, Jason Douglas]
+    title: "Introducing App Search"
+    tags: [systemframeworks]
+    wwdc: "wwdc2015-709"
+  - language: English
+    speakers: [Chris Edstrom]
+    title: "CloudKit JS and Web Services"
+    tags: [systemframeworks, cloudkit]
+    wwdc: "wwdc2015-710"
+  - language: English
+    speakers: [Luke Case]
+    title: "Networking with NSURLSession"
+    tags: [systemframeworks, networking]
+    wwdc: "wwdc2015-711"
+  - language: English
+    speakers: [Eric Bienville]
+    title: "Low Energy, High Performance: Compression and Accelerate"
+    tags: [systemframeworks]
+    wwdc: "wwdc2015-712"
+  - language: English
+    speakers: [Chris Jensen Alexander Ledwith]
+    title: "Introducing Watch Connectivity"
+    tags: [systemframeworks, watchos]
+    wwdc: "wwdc2015-713"
+  - language: English
+    speakers: [Adam Driscoll]
+    title: "What's New in Core Location"
+    tags: [systemframeworks, corelocation]
+    wwdc: "wwdc2015-714"
+  - language: English
+    speakers: [Nihar Sharma]
+    title: "CloudKit Tips and Tricks"
+    tags: [systemframeworks, cloudkit]
+    wwdc: "wwdc2015-715"
+  - language: English
+    speakers: [Jamie Wood, Tommy Pauly]
+    title: "What's New in Network Extension and VPN"
+    tags: [systemframeworks]
+    wwdc: "wwdc2015-717"
+  - language: English
+    speakers: [Anthony Chivetta, Daniel Steffen]
+    title: "Building Responsive and Efficient Apps with GCD"
+    tags: [systemframeworks, gcd]
+    wwdc: "wwdc2015-718"
+  - language: English
+    speakers: [Prabhakar Lakhera, Stuart Cheshire]
+    title: "Your App and Next Generation Networks"
+    tags: [systemframeworks]
+    wwdc: "wwdc2015-719"
+  - language: English
+    speakers: [Michele Campeotto]
+    title: "What's New in Notifications"
+    tags: [systemframeworks]
+    wwdc: "wwdc2015-720"
+  - language: English
+    speakers: [Jeffrey Traer Bernstein, Matthaeus Krenn, Bill Lindmeier]
+    title: "Designing for Future Hardware"
+    tags: [design]
+    wwdc: "wwdc2015-801"
+  - language: English
+    speakers: [Mike Stern]
+    title: "Designing for Apple Watch"
+    tags: [design]
+    wwdc: "wwdc2015-802"
+  - language: English
+    speakers: [Julian Missig, Joe Malia, Marek Bereza]
+    title: "Designing with Animation"
+    tags: [design]
+    wwdc: "wwdc2015-803"
+  - language: English
+    speakers: [Mike Stern]
+    title: "Apple Watch Design Tips and Tricks"
+    tags: [design]
+    wwdc: "wwdc2015-805"
 NSSpain 2015:
   - language: English
     speakers: [Piet Brauer]
