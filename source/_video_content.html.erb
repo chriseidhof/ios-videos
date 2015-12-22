@@ -11,6 +11,9 @@
     No tags yet. <%= link_to "Suggest tags", github_repo_url %>
   <% end %>
 </p>
+<% if video['description'] %>
+  <p class="video-meta"> Description:<br/><%= video['description'] %></p>
+<% end %>
 <% if video.wwdc %>
   <p><%= link_to "Watch on apple.com", video_url(video) %></p>
 <% else %>

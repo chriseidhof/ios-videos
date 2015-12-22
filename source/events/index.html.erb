@@ -7,7 +7,11 @@ title: Events
     <h2><%= link_to event, "/events/#{event_data.slug}" %></h2>
     <p>
       <% data.videos[event].each do |video| %>
-        <%= video.speakers.join(", ") %> - <%= link_to_video video %> <br/>
+      	<% if video.speakers.count > 0 %>
+      	  <%= video.speakers.join(", ") %> - <%= link_to_video video %> <br/>
+      	<% else %>
+      	  <%= link_to_video video %> <br/>
+      	<% end %>
       <% end %>
     </p>
   <% end %>

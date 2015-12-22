@@ -2,6 +2,7 @@
     <header class="video-header">
         <h2 class="video-title"><%= video.title %></h2>
         <p class="video-meta">
+          <% if video.speakers.count > 0 %>
             By <% video.speakers.each do |s| %>
               <%= s %>
               <% if data.speakers[s] %>
@@ -11,6 +12,7 @@
                 - <%= link_to('@' + data.speakers[s].twitter, 'http://twitter.com/' + data.speakers[s].twitter) %><br/>
               <% end %>
             <% end %>
+          <% end %> 
         </p>
     </header>
     <%= partial :video_content, :locals => { :video => video } %>
