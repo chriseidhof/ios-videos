@@ -2726,15 +2726,6 @@ iOS Conf Singapore 2015:
     title: Building an Invisible App
     tags: []
     youtube: J0d97U8pKwI
-do{iOS} Amsterdam November 2015
-  - language: English
-    speakers: [Anastasiia Voitova]
-    tags: [security]
-    youtube: 2OVBj7G8ijI
-- language: English
-    speakers: [Pim Stolk]
-    tags: [architecture]
-    youtube: N5xLQGqmvhQ
 CocoaHeads Stockholm November 2015:
   - language: English
     speakers: [Felix Krause]
@@ -2751,6 +2742,17 @@ CocoaHeads Stockholm November 2015:
     title: All you have to do is Hoppa!
     tags: [games, sceneKit]
     vimeo: 146505694
+"do{iOS} Amsterdam November 2015":
+  - language: English
+    speakers: [Anastasiia Voitova]
+    title: Data protection for mobile client-server architectures
+    tags: [security]
+    youtube: zKvt0fv_mkc
+  - language: English
+    speakers: [Pim Stolk]
+    title: Future prooving your iOS apps
+    tags: [architecture]
+    youtube: N5xLQGqmvhQe
 CocoaHeads Stockholm October 2015:
   - language: English
     speakers: [Pedro Mancheno]
