@@ -2742,7 +2742,7 @@ CocoaHeads Stockholm November 2015:
     title: All you have to do is Hoppa!
     tags: [games, sceneKit]
     vimeo: 146505694
-"do{iOS} Amsterdam November 2015":
+"do{iOS} Amsterdam 2015":
   - language: English
     speakers: [Anastasiia Voitova]
     title: Data protection for mobile client-server architectures
@@ -2752,7 +2752,7 @@ CocoaHeads Stockholm November 2015:
     speakers: [Pim Stolk]
     title: Future prooving your iOS apps
     tags: [architecture]
-    youtube: N5xLQGqmvhQe
+    youtube: N5xLQGqmvhQ
 CocoaHeads Stockholm October 2015:
   - language: English
     speakers: [Pedro Mancheno]
