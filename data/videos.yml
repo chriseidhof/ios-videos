@@ -3935,3 +3935,14 @@ Seattle Xcoders May 2016:
     title: Health Data Apps with ResearchKit
     tags: [researchkit, health]
     vimeo: 168695472
+NSLondon May 2016:
+  - language: English
+    speakers: [Romaine Reid]
+    title: Utilising Motion Design to Enhance Your App
+    tags: [user interface, user experience, animation, interaction design]
+    vimeo: 170323220
+  - language: English
+    speakers: [Roy Marmelstein]
+    title: Scandal and Controversy in iOS Development
+    tags: [storyboards, kvo, design patterns]
+    vimeo: 170323222
